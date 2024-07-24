@@ -9,9 +9,8 @@ En este repositorio encontrarás una amplia variedad de recursos para aprender y
 - **Actualizaciones:** Este repositorio se actualizará periódicamente con nuevos ejercicios y mejoras en la guía.
 
 ## Estructura del Repositorio
-- **/guia:** Contiene el documento PDF de la guía de Python.
-- **/ejercicios-resueltos:** Carpeta con los problemas resueltos del curso CS50 de Harvard.
-- **/actualizaciones:** Información sobre las actualizaciones y mejoras realizadas.
+- **guia:** Contiene el documento PDF de la guía de Python.
+- **ejercicios-resueltos:** Carpeta con los problemas resueltos del curso CS50 de Harvard.
 
 ## Cómo Usar Este Repositorio
 1. **Clona el repositorio:** 
