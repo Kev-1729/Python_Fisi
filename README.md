@@ -1,4 +1,4 @@
-# Python Fisi
+# Python UNMSM
 
 ## Descripción
 En este repositorio encontrarás una amplia variedad de recursos para aprender y practicar Python. El contenido está diseñado para ser accesible tanto para principiantes como para aquellos con conocimientos intermedios.
