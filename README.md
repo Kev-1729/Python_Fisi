@@ -11,6 +11,7 @@ En este repositorio encontrarás una amplia variedad de recursos para aprender y
 ## Estructura del Repositorio
 - **guia:** Contiene el documento PDF de la guía de Python.
 - **ejercicios-resueltos:** Carpeta con los problemas resueltos del curso CS50 de Harvard.
+- **Ejercicios-para-resolver:** Documento .ipynb con teoria y ejercicios en python.
 
 ## Cómo Usar Este Repositorio
 1. **Clona el repositorio:** 
