@@ -17,3 +17,6 @@ En este repositorio encontrarás una amplia variedad de recursos para aprender y
 1. **Clona el repositorio:** 
    ```bash
    git clone https://github.com/tu-usuario/python-fisi.git
+
+
+### Link del curso de CS50 Harvard : [Python Harvard](https://cs50.harvard.edu/python/2022/)
